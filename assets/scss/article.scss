@@ -498,6 +498,13 @@
     }
 }
 
+.video-container > video {
+        display: flex;
+        width: 100%;
+        max-width: 700px;
+        margin: 0 auto 35px;
+}
+
 .footer-spacer{
     margin-bottom: 65px;
 }
